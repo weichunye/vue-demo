@@ -14,7 +14,7 @@
     "axios": "^0.19.0",
     "echarts": "^4.2.1",
     "element-ui": "^2.11.1",
-    "tinymce": "^5.0.5",
+    "tinymce": "^5.4.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1",
     "vue-social-share": "0.0.3",
